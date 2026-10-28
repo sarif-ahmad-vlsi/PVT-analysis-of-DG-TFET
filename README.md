@@ -53,6 +53,7 @@ pvt-analysis-dg-tfet/
 
 ## 7. Author
 Sarif Ahmad
+
 M.Tech in Electronic Circuits and System Design  
 Aligarh Muslim University (AMU)
 
